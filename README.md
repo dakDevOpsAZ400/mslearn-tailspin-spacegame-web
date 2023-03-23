@@ -47,7 +47,7 @@ done <<< "$branches"
 git checkout main
 ```
 
-# Legal Notices
+# Legal Notices..
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
